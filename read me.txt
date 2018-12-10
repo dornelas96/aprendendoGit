@@ -1,3 +1,7 @@
 1° - git add NomeArq
 2° - git commit -m "Descricao"
 3° - git push
+
+toda vez que atualizar o arquivo tem que por commit -a -m
+
+4° - git commit -a -m "Descricao"
