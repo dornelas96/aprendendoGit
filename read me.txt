@@ -9,3 +9,5 @@ toda vez que atualizar o arquivo tem que por commit -a -m
 git pull para copiar arquivo de outro lugar
 
 git revert [hash] - para reverter um commit
+
+git checkout nomeArq - atualiza o arquivo local com o arquivo do git
