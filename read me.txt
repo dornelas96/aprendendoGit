@@ -7,3 +7,5 @@ toda vez que atualizar o arquivo tem que por commit -a -m
 4° - git commit -a -m "Descricao"
 
 git pull para copiar arquivo de outro lugar
+
+git revert [hash] - para reverter um commit
